@@ -2703,8 +2703,15 @@ footer .image-divider.fixed-height{
 
 .intronames{
 	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, sans-serif;
-	letter-spacing:3px;
-	font-size:22px;
+	letter-spacing: 0px;
+	font-size: 22px;
+	color: #6a6a6a;
+	line-height: 2;
+	padding-top: 20px;
+}
+
+.intronames b {
+	font-size:24px;
 }
 
 .introlinks{
