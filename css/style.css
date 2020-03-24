@@ -3633,10 +3633,7 @@ p{
 /* ----------------------------------------------*/
 #where-when{
 	padding: 80px 0
-}
-
-#ways ul{
-	list-style: none;
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 /* ----------------------------------------------*/
