@@ -420,7 +420,7 @@ img.with-border{
 	list-style-type:none;
 	margin:0;
 	padding:45px 0 0 0;
-	font-family: 'Oswald','Noto Sans KR', sans-serif;
+	font-family: 'Stylish' sans-serif;
 	font-size:13px;
 	z-index:1000;
 }
@@ -2688,25 +2688,25 @@ footer .image-divider.fixed-height{
 }
 
 #banner-date{
-	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, 'Sans-serif';
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, sans-serif;
 	letter-spacing:3px;
 	font-size:22px;
 }
 
 .introcontents{
-	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, 'Sans-serif';
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, sans-serif;
 	letter-spacing:3px;
 	font-size:20px;
 }
 
 .intronames{
-	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, 'Sans-serif';
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, sans-serif;
 	letter-spacing:3px;
 	font-size:22px;
 }
 
 .introlinks{
-	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, 'Sans-serif';
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, sans-serif;
 	letter-spacing:3px;
 	font-size:18px;
 }
