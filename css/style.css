@@ -1725,12 +1725,14 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 
 .mapcontents{
 	font-size:16px;
+	line-height: 2.2;
+	
 }
 
 .mapcontents .map-icon{
 	width: 36px;
 	height: 36px;
-	margin: 5px;
+	margin: 20px 5px 5px 5px;
 }
 
 .de-icon{
@@ -3630,6 +3632,10 @@ p{
 /* ----------------------------------------------*/
 #where-when{
 	padding: 80px 0
+}
+
+.ways ul{
+	list-style: none;
 }
 
 /* ----------------------------------------------*/
