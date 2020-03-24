@@ -1724,6 +1724,7 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 /*===============================================*/
 
 .mapcontents{
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, sans-serif;
 	font-size:16px;
 	line-height: 2.2;
 	
