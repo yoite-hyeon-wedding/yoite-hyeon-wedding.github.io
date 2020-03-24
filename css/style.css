@@ -1,5 +1,7 @@
 @charset "utf-8";
 @import url(https://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(https://fonts.googleapis.com/css?family=Stylish);
+@import url('//cdn.rawgit.com/young-ha/webfont-archive/master/css/BareunBatang.css');
 /*==============================
 	- Template Name: FOREVER - Responsive HTML Wedding Template
 	- Author: DoubleEight
@@ -206,7 +208,7 @@ body{
 }
 
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Noto Sans KR', sans-serif;
+	font-family: 'Stylish', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -1576,6 +1578,11 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 	text-align:center
 }
 
+.banner-text h1{
+	font-family: 'Stylish';
+	font-size: 65px;
+}
+
 .banner-text.small{
 	padding:2px 30px;
 }
@@ -2670,11 +2677,28 @@ footer .image-divider.fixed-height{
 }
 
 #banner-date{
-	font-family: 'Oswald', 'Noto Sans KR', sans-serif;
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, 'Sans-serif';
 	letter-spacing:3px;
-	font-size:14px;
+	font-size:22px;
 }
 
+.introcontents{
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, 'Sans-serif';
+	letter-spacing:3px;
+	font-size:20px;
+}
+
+.intronames{
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, 'Sans-serif';
+	letter-spacing:3px;
+	font-size:22px;
+}
+
+.introlinks{
+	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, 'Sans-serif';
+	letter-spacing:3px;
+	font-size:18px;
+}
 /* ----------------------------------------------*/
 /* 14.2 Couple Section							 */
 /* ----------------------------------------------*/
@@ -3722,7 +3746,7 @@ footer .image-divider.fixed-height{
 }
 
 #footer-couple-name{
-	font-family: 'Oswald','Noto Sans KR', sans-serif;
+	font-family: 'Stylish',sans-serif;
 	font-size:15px;
 	color:#FFF;
 	letter-spacing:3px;
