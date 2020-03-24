@@ -2700,7 +2700,7 @@ footer .image-divider.fixed-height{
 
 .introcontents{
 	font-family: 'BareunBatang', -apple-system, BlinkMacSystemFont, sans-serif;
-	letter-spacing:1px;
+	letter-spacing:0px;
 	font-size:18px;
 }
 
