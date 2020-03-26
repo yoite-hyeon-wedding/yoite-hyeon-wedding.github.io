@@ -1583,6 +1583,12 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 	font-size: 55px;
 }
 
+@media screen and (max-height:700px) {
+	.banner-text h1{
+		font-size: 30px;
+	}
+}
+
 .banner-text.small{
 	padding:2px 30px;
 }
