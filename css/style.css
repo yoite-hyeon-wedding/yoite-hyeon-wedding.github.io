@@ -941,6 +941,7 @@ img.with-border{
 	height:inherit;
 	width:100%;
 	overflow:hidden;
+	padding-inline-start: 0px;
 }
 
 #main-slider.flexslider .flex-viewport{
