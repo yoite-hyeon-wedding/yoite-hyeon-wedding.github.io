@@ -477,11 +477,11 @@ img.with-border{
 }
 
 #nav-menu > li:before{
-  	font-family: "fontello";
+  	font-family: "FontAwesome";
   	font-style: normal;
   	font-weight: normal;
   	font-size:10px;
-	content: '\e9bd';
+	content: '\f004';
 	color:#f0394d;
 	text-align:center;
 }
@@ -1632,11 +1632,11 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 
 .banner-text.withlove:before{
 	display:block;
-	font-family: "fontello";
+	font-family: "FontAwesome";
 	position:absolute;
 	font-size:22px;
 	color:#FFF;
-	content:"\e806";
+	content:"\f004";
 	top:-17px;
 	left:0;
 	right:0;
@@ -1649,11 +1649,11 @@ input[type=submit]:disabled, input[type=submit]:hover:disabled{
 
 .banner-text.withlove:after{
 	display:block;
-	font-family: "fontello";
+	font-family: "FontAwesome";
 	position:absolute;
 	font-size:22px;
 	color:#f0394d;
-	content:"\e806";
+	content:"\f004";
 	top:-17px;
 	left:0;
 	right:0	;
